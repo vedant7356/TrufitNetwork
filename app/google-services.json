@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117204311138",
+    "project_id": "trufitnetwork",
+    "storage_bucket": "trufitnetwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117204311138:android:e26bf6239bacdc2aff853b",
+        "android_client_info": {
+          "package_name": "com.vedant.trufitnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117204311138-01nrm06okaq72cqgmc1372us5na1i8bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7JXdjoMV2JTHzMwvz-eyF4CG-9YKqfBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117204311138-01nrm06okaq72cqgmc1372us5na1i8bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

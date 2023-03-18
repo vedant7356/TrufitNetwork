@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/location_data_show"
+        android:title="Mumbai"
+        app:showAsAction="ifRoom"
+        app:actionViewClass="android.widget.Spinner">
+
+        <menu>
+            <item
+                android:id="@+id/kerla_bt"
+                android:title="Kerla"
+                android:icon="@drawable/ic_round_home_24"/>
+
+            <item
+                android:id="@+id/karnataka_bt"
+                android:title="Karnataka"
+                android:icon="@drawable/ic_round_home_24"/>
+
+            <item
+                android:id="@+id/mumbai_bt"
+                android:title="Mumbai"
+                android:icon="@drawable/ic_round_home_24"/>
+
+            <item
+                android:id="@+id/gujrat_bt"
+                android:title="Gujrat"
+                android:icon="@drawable/ic_round_home_24"/>
+
+            <item
+                android:id="@+id/deli_bt"
+                android:title="Delhi"
+                android:icon="@drawable/ic_round_home_24"/>
+
+            <item
+                android:id="@+id/kolkat_bt"
+                android:title="Kolkata"
+                android:icon="@drawable/ic_round_home_24"/>
+
+            <item
+                android:id="@+id/up_bt"
+                android:title="Uttar Pradesh"
+                android:icon="@drawable/ic_round_home_24"/>
+
+            <item
+                android:id="@+id/uttar_bt"
+                android:title="Uttarakhand"
+                android:icon="@drawable/ic_round_home_24"/>
+
+
+        </menu>
+
+    </item>
+
+
+    <item
+        android:id="@+id/open_map"
+        android:icon="@drawable/ic_baseline_location_on_24"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/log_out"
+        android:title="Logout"
+        android:icon="@drawable/ic_round_logout_24"
+        app:showAsAction="never" />
+
+</menu>

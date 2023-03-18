@@ -1,0 +1,12 @@
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp"
+    android:background="#313C4E"
+    android:text="User"
+    android:textSize="15sp"
+    android:fontFamily="@font/poppins"
+    android:id="@+id/role"
+    android:textColor="@color/white"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
+
